@@ -1,4 +1,4 @@
-# Jupyter Server Proxy
+# Jupyter Server Proxy - test
 
 [![ReadTheDocs badge](https://img.shields.io/readthedocs/jupyter-server-proxy?logo=read-the-docs)](https://jupyter-server-proxy.readthedocs.io/)
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/jupyterhub/jupyter-server-proxy/test.yaml?logo=github&branch=main)](https://github.com/jupyterhub/jupyter-server-proxy/actions)
